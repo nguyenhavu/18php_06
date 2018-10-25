@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding: 0;
+}
+#conterver{
+	width: 60%;
+	height: 400px;
+	border-radius: 10px;
+	background-image: linear-gradient(red, green);
+	box-shadow: 5px 5px 5px 5px red;
+	margin: 100px;
+	text-align: 80px;
+}
+#class3{
+	margin: 50px;
+	text-indent:10px;
+	text-align: 50; 
+	float: left;
+
+}
+#kkkk{
+	margin-top: 100px;
+	text-indent:10px;
+	text-align: 10px;
+	float: left;
+	margin-left: -390px;
+}
+}
+		

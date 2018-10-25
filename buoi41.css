@@ -1,0 +1,35 @@
+#containter{
+	width: 90%;
+	margin: 0px;
+	border: 1px solid red;
+	height: 500px;
+}
+.product1, .product2, .product3{
+	width: 32%;
+	height: 50px;
+	float: left;
+	border: 1px solid black;
+}
+@media screen and (max-width: 768px){
+	.product1, .product2{
+		width: 49%;
+	}
+	.product3{
+		width: 99%;
+	}
+@media screen and (max-width: 1024px){
+	.product1, .product2, .product3{
+		width: 99%;
+	}
+
+body{
+	background-color: blue;
+}
+@media screen and (max-width: 1024px){
+	body{
+		background-color: red;
+	}
+}
+@media screen and (max-width: 760px){
+	body{
+		background-color: green;

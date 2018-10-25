@@ -1,0 +1,106 @@
+.content1{
+  width: 101%;
+  height: 90px;
+  background-color: yellow;
+  line-height: 40px;
+  margin-top: -10px;
+}
+
+#hero1{
+    width: 97%;
+    height: 40px;
+    background-color: red;
+    float: left;
+    border: 3px solid white;
+    margin-top: -10px;
+    text-align: 45px;
+    display: none;
+}
+#hero2{
+    width: 97%;
+    height: 40px;
+    background-color:red;
+    float: left;
+    border:3px solid white;
+    margin-top: 0px;
+    text-align: center;
+}
+.content3{
+  width: 101%;
+  height: 440px;
+  background-color: yellow;
+  line-height: 40px;
+  margin-top: -10px;
+  text-align: center;
+  position: relative;
+  top: 15px;
+}
+#action1{
+  width: 99%;
+  height: 80px;
+  background-color: red;
+  float: left;
+  border: 3px solid white;
+  text-align: center;
+  line-height: 70px;
+  margin-top: 0px;
+}
+#action2{
+  width: 101%;
+  height: 100px;
+  background-color: red;
+  float: left;
+  border: 2px solid white;
+  text-align: center;
+  margin-top: 105px;
+  line-height: 110px;
+
+}
+
+
+.content2{
+    width: 101%;
+    height: 100px;
+    background-color: #b30077;
+    float:left;
+    border: 2px solid white;
+    
+    text-align: center;
+    line-height: 85px;
+    position: relative;
+    top: -85px;
+
+  
+}
+.content4 {
+    width: 101%;
+    height: 75px;
+    background-color: yellow;
+    float: left;
+    border: 3px solid white; 
+    margin-top: -15px;
+    display: none;
+}
+#sidebar{
+  width: 99%;
+  height: 50px;
+  background-color: red;
+  float: left;
+  border: 2px solid white;
+  margin-top: 0px;
+  text-align: center;
+  display: none;
+
+}
+footer {
+    width: 101%;
+    height: 50px;
+    background-color: yellow;
+    border: 2px solid white;
+    margin-top: -100px;
+    line-height: 30px;
+}
+p{
+  text-align: left;
+}
+

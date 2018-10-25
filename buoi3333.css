@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#demo1{
+	border-style: dotted;
+	border-width: 4px;
+	height: 600px;
+}
+#demo2{
+	border: 2px solid black;
+	height: 400px;
+	width: 60%;
+	margin: 
+}
